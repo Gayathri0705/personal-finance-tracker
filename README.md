@@ -33,12 +33,14 @@ A web-based application to help users track their income, expenses, and manage t
 
 ## 📂 Project Structure
 /htdocs
-├── css/
-├── js/
-├── php/
-├── images/
+├── includes- db.php
+├── alerts.php
+├── budget_summary.php
+├── carts.php
 ├── index.php
-├── dbconfig.php
+|__ dashboard.php
+|__ delete_entry.php
+|__expense_prediction.php
 └── README.md
 
 ---
